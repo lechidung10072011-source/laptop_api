@@ -2,28 +2,28 @@
   {
     "id": 1,
     "name": "MacBook Pro 14\"",
-    "image": "image(1).jpeg",
+    "image": "https://unsplash.com",
     "specs": "Apple M3 Chip | 8GB RAM | 512GB SSD",
     "price": "1,599"
   },
   {
     "id": 2,
     "name": "ASUS ROG Zephyrus",
-    "image": "asus.jpeg",
+    "image": "https://unsplash.com",
     "specs": "Ryzen 9 | RTX 4070 | 16GB | 1TB",
     "price": "1,899"
   },
   {
     "id": 3,
     "name": "Dell XPS 13",
-    "image": "dell.jpeg",
+    "image": "https://unsplash.com",
     "specs": "Core i7 | 16GB RAM | 512GB SSD",
     "price": "1,299"
   },
   {
     "id": 4,
     "name": "HP Pavilion 15",
-    "image": "hp.jpeg",
+    "image": "https://unsplash.com",
     "specs": "Core i5 | 8GB RAM | 512GB SSD",
     "price": "699"
   }
